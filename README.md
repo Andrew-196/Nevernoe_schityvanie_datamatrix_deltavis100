@@ -97,7 +97,7 @@ IP камеры 192.168.0.51
 ![image](https://github.com/user-attachments/assets/9567f39b-872f-4469-bf25-30f0b89a988d)
 ![image](https://github.com/user-attachments/assets/8ad0c367-2daf-4d19-ab1c-1902e9c6c863)
 
-# Сетевая топология (устаревшная)
+# Сетевая топология (устаревшая)
 
 ![image](https://github.com/user-attachments/assets/760e8fc7-fb8b-4cd6-a882-d9af8ed18bd9)
 
